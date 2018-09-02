@@ -40,7 +40,7 @@
             vehicle_predict_name.append((str(vehicle_label[idx]['name']) + ': ' + '%.1f'%(vehicle_accuracy[i]*100) + '%'))
             vehicle_predict_box.append(vehicle_box[i])
 
-##### 4) 在图片上标注识别出的车辆型号及准确率。
-![图片1](./classification_results/image_1.jpg)
-![图片2](./classification_results/image_2.jpg)
-![图片3](./classification_results/image_3.jpg)
+##### 4) 在图片上标注识别出的车辆型号及准确率。    
+![图片1](./classification_results/image_1.jpg)     
+![图片2](./classification_results/image_2.jpg)        
+![图片3](./classification_results/image_3.jpg)    
